@@ -27,7 +27,7 @@ This project analyzes vendor performance, profitability, and procurement efficie
 - Improved visibility into vendor performance metrics
 
 ## Dashboard Preview
-(Add Screenshot Here)
+<img width="1184" height="667" alt="Screenshot 2026-05-22 155243" src="https://github.com/user-attachments/assets/91a2c9fa-643a-47e6-9462-88c9399de19d" />
 
 ## Skills Demonstrated
 SQL, Data Cleaning, EDA, Power BI, Dashboard Development, Business Intelligence
